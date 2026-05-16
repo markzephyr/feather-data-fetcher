@@ -38,5 +38,5 @@ Raw data is just the beginning.
 
 If you want this data automatically fed through custom HuggingFace Sentiment Transformers, Quant Volatility Matrices, and Herfindahl-Hirschman (HHI) concentration scoring to predict market crashes in **under 25 seconds**...
 
-**[Join the Waitlist for the Feather AI Platform](https://featherai.com)**
+**[Join the Waitlist for the Feather AI Platform](https://airtable.com/invite/l?inviteId=invrNAZSbh99J3bpc&inviteToken=f7b270f51406021d35260305d6f2657a11123715ce19b33326ef9d94ea0773a9&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)**
 *Terminal-native wealth management, powered by advanced ML.*
